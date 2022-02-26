@@ -1,0 +1,48 @@
+[{
+  "id": "100",
+  "sportType": "Football",
+  "country": "Jerusalem",
+  "eventData": "01/8/2022"
+},
+{
+  "id": "101",
+  "sportType": "Football",
+  "country": "Haifa",
+  "eventData": "01/9/2022"
+},
+{
+  "id": "102",
+  "sportType": "Football",
+  "country": "Rammala",
+  "eventData": "01/10/2022"
+},
+{
+  "id": "103",
+  "sportType": "Boxing",
+  "country": "Jerusalem",
+  "eventData": "01/8/2022"
+},
+{
+  "id": "104",
+  "sportType": "Baseball",
+  "country": "Jereco",
+  "eventData": "01/11/2022"
+},
+{
+  "id": "105",
+  "sportType": "Car Racing",
+  "country": "Tell Aviv",
+  "eventData": "01/5/2022"
+},
+{
+  "id": "106",
+  "sportType": "Ice Scating",
+  "country": "Hermon",
+  "eventData": "01/3/2022"
+},
+{
+  "id": "107",
+  "sportType": "Karate",
+  "country": "Jerusalem",
+  "eventData": "01/7/2022"
+}]
